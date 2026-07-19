@@ -1,2 +1,30 @@
 # A-Working-Restaurant-Menu
 I made a Full Working Restaurant Menu with these features :
+
+1. Main Page
+	- Login Page
+	- Registration Page
+	- Menu Page
+	- Balance
+2. Items, Foods
+	- Item Price
+3. Order Menu
+	- Item Quantity
+4. Review Order
+	- Discount
+	- Shipping Fee
+	- Payment Method
+	- Information
+5. Order Confirmation
+	- Review Orders
+	- Items Ordered
+	- Discount
+	- Shipping Fee
+	- Information
+6. Receipt
+	- Items Ordered
+	- Total Price
+	- Payment Method
+
+
+        
