@@ -1,27 +1,27 @@
 # A-Working-Restaurant-Menu
-I made a Full Working Restaurant Menu with these features :
+## I made this by myself, I used C++ in order to make this Small Project. I also made a Login and Register System where if a user's input did not match on users.txt a user will not able to go on the menu page.
 
-1. Main Page
+# 1. Main Page
 	- Login Page
 	- Registration Page
 	- Menu Page
 	- Balance
-2. Items, Foods
+# 2. Items, Foods
 	- Item Price
-3. Order Menu
+# 3. Order Menu
 	- Item Quantity
-4. Review Order
+# 4. Review Order
 	- Discount
 	- Shipping Fee
 	- Payment Method
 	- Information
-5. Order Confirmation
+# 5. Order Confirmation
 	- Review Orders
 	- Items Ordered
 	- Discount
 	- Shipping Fee
 	- Information
-6. Receipt
+# 6. Receipt
 	- Items Ordered
 	- Total Price
 	- Payment Method
